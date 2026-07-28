@@ -1,10 +1,13 @@
 # Lorenzo Venuti
 
-Computer vision, machine learning and real-time systems.
-Mostly Python and C/C++ — from finding defects in images to schedulers that are not
-allowed to miss a deadline.
+Computer vision and real-time systems.
+I like problems where the answer has to be both correct and on time — vision pipelines
+that have to spot a defect, and schedulers that are not allowed to miss a deadline.
 
-**Stack:** Python · PyTorch · OpenCV · C/C++ · MATLAB & Simulink
+**Stack:** Python · C/C++ (C11, POSIX threads) · MATLAB & Simulink · YOLO · Arduino
+
+**What I tend to care about:** making a system *analysable*, not just working — measuring
+with numbers instead of impressions, and writing down the alternatives I discarded and why.
 
 ## Just for fun
 
