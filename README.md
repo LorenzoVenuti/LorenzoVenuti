@@ -22,12 +22,17 @@ when the underlying idea is mine to share.
 
 ## Currently in the open
 
+**[realtime-traffic-controller](https://github.com/LorenzoVenuti/realtime-traffic-controller)**
+— a hard real-time traffic light controller in C11, driving a SUMO simulation over TraCI: four
+`SCHED_FIFO` tasks, a gateway that owns the socket so the blocking term can actually be
+computed, and an emergency vehicle that gets a green light before it arrives. The measurement
+data is published whole, including the result that does not flatter it — measured against the
+real cost of a simulator roundtrip, the system is not formally schedulable, while staying
+functionally correct and safe. Being able to say that precisely is the point of the project.
+
 **[ironman-powerup](https://github.com/LorenzoVenuti/ironman-powerup)** — clap twice and your
 Mac plays a song, greets you and opens your editor; clap three times and it stops. A microphone
 listener, a background LaunchAgent, and a few macOS quirks documented on the way out.
-
-More is on the way: a real-time traffic light controller in C11, published piece by piece,
-measurements included — along with the parts of the analysis that did not say what I hoped.
 
 ## Team projects
 
