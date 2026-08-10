@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Lorenzo+Venuti" alt="Lorenzo Venuti" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1200&color=7AA2F7&center=true&vCenter=true&width=820&height=60&lines=AI+engineering+fan+%26+personal+projects" alt="AI engineering fan & personal projects" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1400&color=9ECE6A&center=true&vCenter=true&width=700&height=36&lines=Computer+vision+%26+AI+engineering;Real-time+systems+that+are+not+allowed+to+miss+a+deadline;Correct+and+on+time+%E2%80%94+not+one+or+the+other" alt="What I work on" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1400&color=9ECE6A&center=true&vCenter=true&width=820&height=36&lines=I'm+Lorenzo+Venuti" alt="Lorenzo Venuti" />
 
 <a href="https://www.linkedin.com/in/lorenzovenuti">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -69,11 +69,13 @@ helps students find a free seat in the university library, through a web app and
 
 </div>
 
-## 💬 Dev quote
+## 💬 Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+### *"Machines take me by surprise with great frequency."*
+
+**— Alan Turing**, *Computing Machinery and Intelligence* (1950)
 
 </div>
 
