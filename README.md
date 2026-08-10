@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1200&color=7AA2F7&center=true&vCenter=true&width=820&height=60&lines=AI+engineering+fan+%26+personal+projects" alt="AI engineering fan & personal projects" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1200&color=7AA2F7&center=true&vCenter=true&width=820&height=70&lines=Lorenzo+Venuti" alt="Lorenzo Venuti" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1400&color=9ECE6A&center=true&vCenter=true&width=820&height=36&lines=I'm+Lorenzo+Venuti" alt="Lorenzo Venuti" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1400&color=7AA2F7&center=true&vCenter=true&width=820&height=40&lines=AI+engineering+fan+%26+personal+projects" alt="AI engineering fan & personal projects" />
 
 <a href="https://www.linkedin.com/in/lorenzovenuti">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
