@@ -73,9 +73,9 @@ helps students find a free seat in the university library, through a web app and
 
 <div align="center">
 
-### *"Machines take me by surprise with great frequency."*
+### *"Testing shows the presence, not the absence, of bugs."*
 
-**— Alan Turing**, *Computing Machinery and Intelligence* (1950)
+**— Edsger W. Dijkstra**
 
 </div>
 
